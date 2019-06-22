@@ -7,6 +7,7 @@ http://www.yes24.com/Product/Goods/34958995?scode=032&OzSrank=1
 # 딥러닝 첫걸음 
 머신러닝에서 컨벌루션 신경망까지
 
+
 ## 목차
 ## CHAPTER 1 머신러닝 
 1.1 머신러닝과 딥러닝 
